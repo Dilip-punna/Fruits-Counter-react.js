@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.img {
+  height: 80px;
+  width: 80px;
+  margin: 20px;
+}
+.bg {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+.card {
+  background-color: #ffd569;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+.cart {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+}
